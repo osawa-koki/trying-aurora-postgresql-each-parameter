@@ -21,7 +21,7 @@
   "devDependencies": {
     "@eslint/js": "^9.21.0",
     "@types/jest": "^29.5.12",
-    "@types/node": "22.13.8",
+    "@types/node": "22.13.14",
     "aws-cdk": "2.1002.0",
     "eslint": "^9.21.0",
     "globals": "^16.0.0",
